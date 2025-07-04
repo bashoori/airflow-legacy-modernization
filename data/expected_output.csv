@@ -1,0 +1,4 @@
+customer_id,full_name,email,signup_date,amount_spent,processed_at
+101,Alice Smith,alice@example.com,2023-11-15,250.75,2025-07-04 10:00:00
+102,Bob Johnson,bob@example.com,2023-12-02,134.50,2025-07-04 10:00:00
+105,Eli Grant,eli@example.com,2024-03-01,319.99,2025-07-04 10:00:00
